@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <krpano version="1.0.8.15">
-
     <layer
         name="test_loader"
         type="container"
         visible="true"
         html="Test XML Loaded Successfully"
     />
-
 </krpano>
